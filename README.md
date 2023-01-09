@@ -1,3 +1,6 @@
+PDF [KLIK DISINI](https://drive.google.com/file/d/1B592hgFIhTPx2zmeHPPaCE1-gG92BFAb/view?usp=drivesdk)
+
+
 ## kode program daftar_nilai.py
 
 ```
